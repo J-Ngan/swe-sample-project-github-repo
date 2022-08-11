@@ -14,16 +14,19 @@ An online bookstore application for Wentworth students to buy and sell books.
 1. Install [Node.js](https://nodejs.org/) & [mySQL](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/) if you haven't already.
 2. Clone this repository and install its dependencies.
 		
+		> example stuff
 		> git clone git://github.com/drphamwit/node-login.git node-login
 		> cd node-login
 		> npm install
 		
 3. In a separate shell start mySQL.
 
-		> mysqld
+		>example stuff
+		>  mysqld
 ### Run
 1. From within the node-login directory start the server.
 
+		> example stuff
 		> node app
 		
 2. Open a browser window and navigate to: [http://localhost:3000](http://localhost:3000)
